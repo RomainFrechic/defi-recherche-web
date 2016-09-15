@@ -19,3 +19,16 @@ Leurs prochains évenement sont : le Jeudi 15 septembre 2016 à 19h: Échanger s
 
 [liens 1](http://www.meetup.com/fr-FR/cities/fr/toulouse/)
 
+#Quels sont les prochains rendez-vous tech de Toulouse ?
+Les prochain rendez-vous tech de toulouse sont :
+Le 22 et 23 septembre 2016 
+L'innovation days 2016 à L'iot Valley: pendant 48H rencontre entre différentes start up et grand group.
+[liens 1](http://innovation-day.fr/)
+
+Le 22 septembre 2016
+Le connecting run 2016 à L'iot Valley: La Connected Run est organisée par l'IOT Valley chaque année lors des Innovation Days. Un moment fun et convivial pour réunir l'écosystème innovant de Toulouse et ses environs autour des valeurs du sport.
+[liens 2](http://innovation-day.fr/connected-run/)
+
+Le 6 et 7 octobre 2016: 
+Venture market pour start-ups à Toulouse :  EmTech France, conférence annuelle organisée à Toulouse par la Revue «MIT Technology Review » qui en organise à travers le monde. Construit autour de la Communauté de cette revue scientifique, cet événement est le point de rencontre entre des start-ups, des chercheurs, des entrepreneurs et investisseurs du monde entier.
+[liens 3](http://www.marketing-territorial.org/2016/05/venture-market-pour-start-ups-a-toulouse-en-octobre-2016.html)
