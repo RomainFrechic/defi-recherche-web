@@ -151,7 +151,9 @@ Ils se révèlent très pratiques à l’usage et permettent de gagner un temps 
 [liens 1](https://fr.wikipedia.org/wiki/DuckDuckGo)
 [liens 2](https://grawok.wordpress.com/2012/03/03/duckduckgo-utilisation-avancee-du-moteur-qui-fait-bang/)
 
+# Qui est Marissa Mayer ?
 
+Marissa Ann Meyer est une informaticienne connu qui occupe actuellement le poste de PDG chez Yahoo, elle à également était vice présidente de Google ou elle à notament participer a divers projet de développement du géant d'internet.
 
 
 
